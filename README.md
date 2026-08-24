@@ -28,3 +28,5 @@ Containerization
 
 GitHub Actions CI/CD
 1.	Triger the workfloor to main branch
+2. Got the ssh error while trigering the pipeline
+
